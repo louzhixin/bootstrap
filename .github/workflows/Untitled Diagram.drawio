@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T10:31:28.358Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="WBYgGau7GOoQ88IqAuxj" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-01T10:38:59.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="KXcl9R9lFjlEfWrkocvx" version="17.4.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1182" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="1503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,11 +88,46 @@
         <mxCell id="s1B0IG4P6IQ7_TNpiz-R-1800" value="4. la stabilité politique du pays" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#0e8088;strokeWidth=3;fillColor=#b0e3e6;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="999" y="40.5" width="170" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Hlo--RBdNbhpFJk_MbT_-1780" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="Hlo--RBdNbhpFJk_MbT_-1773">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="-170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hlo--RBdNbhpFJk_MbT_-1782" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#B5739D;" edge="1" parent="1" source="Hlo--RBdNbhpFJk_MbT_-1773">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="-210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Hlo--RBdNbhpFJk_MbT_-1773" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;une vue&amp;nbsp; &amp;nbsp;mondiale&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;une&amp;nbsp; &amp;nbsp;vue&amp;nbsp; &amp;nbsp;continentale&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;une&amp;nbsp; &amp;nbsp; vue&amp;nbsp; nationale&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="110" y="-150" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Hlo--RBdNbhpFJk_MbT_-1775" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="190" y="-40" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Hlo--RBdNbhpFJk_MbT_-1781" value="&lt;font color=&quot;#b5739d&quot;&gt;vue nationale&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#B20000;strokeWidth=3;fillColor=#CCFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hlo--RBdNbhpFJk_MbT_-1783" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#B5739D;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hlo--RBdNbhpFJk_MbT_-1781">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="-250" as="targetPoint" />
+            <mxPoint x="390" y="-250" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="410" y="-250" />
+              <mxPoint x="410" y="-250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hlo--RBdNbhpFJk_MbT_-1784" value="&lt;font color=&quot;#b5739d&quot;&gt;Domaine 1&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#B20000;strokeWidth=3;fillColor=#CCFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-360" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hlo--RBdNbhpFJk_MbT_-1785" value="&lt;span style=&quot;color: rgb(181 , 115 , 157)&quot;&gt;Domaine 2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#B20000;strokeWidth=3;fillColor=#CCFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-290" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hlo--RBdNbhpFJk_MbT_-1786" value="&lt;span style=&quot;color: rgb(181 , 115 , 157)&quot;&gt;Domaine 3&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#B20000;strokeWidth=3;fillColor=#CCFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-210" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hlo--RBdNbhpFJk_MbT_-1787" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=18;fontColor=#B5739D;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-327.5" width="90" height="155" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
