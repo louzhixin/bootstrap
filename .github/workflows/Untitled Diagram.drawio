@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-02T12:45:12.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="dXHeOZIU7aUb_OuqEQCQ" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-03T08:08:57.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="1P_eskz9WHXsHmNenhqk" version="17.4.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1218" dy="1503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
           <mxGeometry x="345" y="220" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1764" value="BasicAndSafelyManagedDrinkingWaterServices" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="720" y="225" width="335" height="60" as="geometry" />
+          <mxGeometry x="715" y="225" width="335" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1767" value="3. la part d’habitants ayant accès à l’eau potable&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="812.5" y="50.5" width="150" height="60" as="geometry" />
@@ -56,12 +56,14 @@
         </mxCell>
         <mxCell id="s1B0IG4P6IQ7_TNpiz-R-1781" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="440.5" as="sourcePoint" />
-            <mxPoint x="690" y="580" as="targetPoint" />
+            <mxPoint x="720" y="424" as="sourcePoint" />
+            <mxPoint x="720.2" y="494" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="721" y="414" />
+              <mxPoint x="720" y="464" />
+              <mxPoint x="720" y="444" />
+            </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="s1B0IG4P6IQ7_TNpiz-R-1782" value="RegionCountry" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#314354;strokeWidth=3;fillColor=#647687;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="620" y="570" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="s1B0IG4P6IQ7_TNpiz-R-1783" value="1. le taux de mortalité dû à de l’eau insalubre" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#B20000;strokeWidth=3;fillColor=#e51400;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="150" y="50.5" width="150" height="60" as="geometry" />
@@ -70,7 +72,7 @@
           <mxGeometry x="495" y="50.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s1B0IG4P6IQ7_TNpiz-R-1796" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="500" y="250" width="220" height="10" as="geometry" />
+          <mxGeometry x="495" y="250" width="220" height="10" as="geometry" />
         </mxCell>
         <mxCell id="s1B0IG4P6IQ7_TNpiz-R-1798" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;entryX=0.574;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="s1B0IG4P6IQ7_TNpiz-R-1796" target="s1B0IG4P6IQ7_TNpiz-R-1784" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -99,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Hlo--RBdNbhpFJk_MbT_-1773" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;span id=&quot;docs-internal-guid-63e0c139-7fff-4fa7-c3d6-cd8b07c6e42c&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;courier new&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;Dash mondial&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;span id=&quot;docs-internal-guid-dc1c070a-7fff-9577-5b31-1ad5c942e404&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;courier new&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;Dash continental&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span id=&quot;docs-internal-guid-a96f0c7e-7fff-f5a6-9407-e30a12a7a160&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;courier new&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Dash national&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=#001DBC;fillColor=#0050ef;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-119.5" width="230" height="100" as="geometry" />
+          <mxGeometry x="520" y="-100" width="230" height="80.5" as="geometry" />
         </mxCell>
         <mxCell id="Hlo--RBdNbhpFJk_MbT_-1781" value="&lt;ul style=&quot;font-size: 12px ; text-align: left&quot;&gt;&lt;li&gt;&lt;span id=&quot;docs-internal-guid-a96f0c7e-7fff-f5a6-9407-e30a12a7a160&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;courier new&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;font size=&quot;3&quot; color=&quot;#333333&quot;&gt;&lt;b&gt;Dash national&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fillColor=#d5e8d4;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;arcSize=7;perimeterSpacing=2;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="110" y="-290" width="230" height="60" as="geometry" />
@@ -127,7 +129,10 @@
           <mxGeometry x="500" y="-327.5" width="90" height="155" as="geometry" />
         </mxCell>
         <mxCell id="Hlo--RBdNbhpFJk_MbT_-1788" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;labelBackgroundColor=#9999FF;fontSize=18;fontColor=#333333;fillColor=#CCFFFF;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="180" y="-19.5" width="885" height="60" as="geometry" />
+          <mxGeometry x="180" y="-20" width="885" height="60.5" as="geometry" />
+        </mxCell>
+        <mxCell id="s1B0IG4P6IQ7_TNpiz-R-1782" value="RegionCountry" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#314354;strokeWidth=3;fillColor=#647687;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="645" y="490" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
