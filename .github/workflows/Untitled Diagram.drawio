@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T13:01:45.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Rpecxu12t-c1SIbQNQ87" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-22T13:30:17.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="zBm6OlJVd4eHV4aSdvAp" version="17.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1182" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
           <mxGeometry x="110" y="-290" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hlo--RBdNbhpFJk_MbT_-1784" value="&lt;span id=&quot;docs-internal-guid-3d5bd82d-7fff-8852-7b63-7e09260d47e0&quot;&gt;&lt;span style=&quot;font-size: 12pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; vertical-align: baseline&quot;&gt;&amp;nbsp;création de service en ligne&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#B20000;strokeWidth=3;fillColor=#CCFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="130" y="-520" width="240" height="60" as="geometry" />
+          <mxGeometry x="140" y="-510" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hlo--RBdNbhpFJk_MbT_-1785" value="&lt;span id=&quot;docs-internal-guid-020c9f74-7fff-d90f-9446-faf1272e4d8f&quot;&gt;&lt;span style=&quot;font-size: 12pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; vertical-align: baseline&quot;&gt;modernisation de service en histogramme double&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#B20000;strokeWidth=3;fillColor=#CCFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="420" y="-510" width="240" height="60" as="geometry" />
