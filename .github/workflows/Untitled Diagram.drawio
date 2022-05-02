@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T18:53:57.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="SJgIyd36cJQLmJimeDfW" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-02T18:54:24.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="PfYpUSMaU-Z7DS4Guf-R" version="17.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1576" dy="1683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -59,9 +59,9 @@
         <mxCell id="s1B0IG4P6IQ7_TNpiz-R-1800" value="4. la stabilité politique du pays" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#0e8088;strokeWidth=3;fillColor=#b0e3e6;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="999" y="40.5" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Hlo--RBdNbhpFJk_MbT_-1780" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Hlo--RBdNbhpFJk_MbT_-1773" target="Hlo--RBdNbhpFJk_MbT_-1781" edge="1">
+        <mxCell id="Hlo--RBdNbhpFJk_MbT_-1780" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="Hlo--RBdNbhpFJk_MbT_-1773" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="225" y="-170" as="targetPoint" />
+            <mxPoint x="225" y="-250" as="targetPoint" />
             <Array as="points">
               <mxPoint x="395" y="-40" />
               <mxPoint x="230" y="-40" />
@@ -74,7 +74,7 @@
           <mxGeometry x="280" y="-150" width="230" height="80.5" as="geometry" />
         </mxCell>
         <mxCell id="Hlo--RBdNbhpFJk_MbT_-1781" value="&lt;ul style=&quot;font-size: 12px ; text-align: left&quot;&gt;&lt;li&gt;&lt;span id=&quot;docs-internal-guid-a96f0c7e-7fff-f5a6-9407-e30a12a7a160&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;courier new&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;font size=&quot;3&quot; color=&quot;#333333&quot;&gt;&lt;b&gt;Dash national&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fillColor=#d5e8d4;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;arcSize=7;perimeterSpacing=2;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="110" y="-350" width="230" height="60" as="geometry" />
+          <mxGeometry x="110" y="-310" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hlo--RBdNbhpFJk_MbT_-1784" value="&lt;span id=&quot;docs-internal-guid-3d5bd82d-7fff-8852-7b63-7e09260d47e0&quot;&gt;&lt;span style=&quot;font-size: 12pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; vertical-align: baseline&quot;&gt;&amp;nbsp;création de service en ligne&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#B20000;strokeWidth=3;fillColor=#CCFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="140" y="-510" width="240" height="60" as="geometry" />
@@ -129,9 +129,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KmhUEUmwxPLAwFSa0cnE-1784" value="&lt;ul style=&quot;font-size: 12px ; text-align: left&quot;&gt;&lt;li&gt;&lt;span id=&quot;docs-internal-guid-a96f0c7e-7fff-f5a6-9407-e30a12a7a160&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;courier new&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;font size=&quot;3&quot; color=&quot;#333333&quot;&gt;&lt;b&gt;Histoire&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fillColor=#d5e8d4;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;arcSize=7;perimeterSpacing=2;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="530" y="-340" width="230" height="60" as="geometry" />
+          <mxGeometry x="530" y="-310" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zvg1E41ARxxcF3WMhhbB-1772" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="Hlo--RBdNbhpFJk_MbT_-1773">
+        <mxCell id="Zvg1E41ARxxcF3WMhhbB-1772" value="" style="endArrow=none;html=1;rounded=0;exitX=0.514;exitY=0.784;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Hlo--RBdNbhpFJk_MbT_-1788" target="Hlo--RBdNbhpFJk_MbT_-1773">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="395" y="-10" as="sourcePoint" />
             <mxPoint x="430" y="-10" as="targetPoint" />
